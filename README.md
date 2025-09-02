@@ -41,7 +41,7 @@ Calculato_2Inputs/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/2input-calculator.git
+   git clone https://github.com/anjanadulan/Simple-C-calculator-2-inputs-.git
    ```
 2. Open the project in **Visual Studio**.
 3. Build the project:
