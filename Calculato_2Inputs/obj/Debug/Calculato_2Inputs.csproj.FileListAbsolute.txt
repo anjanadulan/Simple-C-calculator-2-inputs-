@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\bin\Debug\Calculato_2Inputs.exe.config
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\bin\Debug\Calculato_2Inputs.exe
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\bin\Debug\Calculato_2Inputs.pdb
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.Form1.resources
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.Properties.Resources.resources
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.csproj.GenerateResource.cache
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.exe
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.pdb
+C:\Users\USER\Documents\C#\Calculato_2Inputs\Calculato_2Inputs\obj\Debug\Calculato_2Inputs.exe.config
