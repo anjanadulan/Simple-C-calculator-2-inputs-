@@ -73,7 +73,8 @@ Calculato_2Inputs/
 ---
 
 ## 📸 Screenshots (Optional)
-*(Add screenshots of your app UI here)*  
+
+<img width="366" height="481" alt="Image" src="https://github.com/user-attachments/assets/09bcaa26-b1c1-467a-945b-fdfb43e9d25d" />
 
 ---
 
